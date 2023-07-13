@@ -1,1 +1,3 @@
-# codewars
+## codewars
+
+Code Wars Solutions

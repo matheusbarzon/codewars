@@ -22,9 +22,8 @@ function primeAnt(n) {
       while (!(actualArr[currentPosition] % smallestDivisor == 0))
         smallestDivisor++;
 
-      actualArr[currentPosition] = actualArr[currentPosition] / smallestDivisor;
-      actualArr[currentPosition - 1] =
-        actualArr[currentPosition - 1] + smallestDivisor;
+      actualArr[currentPosition] /= smallestDivisor;
+      actualArr[currentPosition - 1] += smallestDivisor;
 
       currentPosition--;
     } else {

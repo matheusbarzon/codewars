@@ -1,5 +1,11 @@
 ## Code Wars Solutions
 
+### Go
+
+| Level       | Nome                                    | Link                                                               | Fonte          |
+| :---        | :---                                    | :----:                                                             | :----:         |
+| 4 kyu       | Next Bigger Number With The Same Digits | [CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e) | [Git](Go/4_kyu/NextBiggerNumberWithTheSameDigits.go) |
+
 ### JavaScript
 
 | Level       | Nome                                    | Link                                                               | Fonte          |

@@ -33,3 +33,9 @@
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/5a2e96f1c5e2849eef00014a) | [Prime Ant Performance Version](Python/5_kyu/PrimeAntPerformanceVersion.py) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/5287e858c6b5a9678200083c) | [Does My Number Look Big In This](Python/6_kyu/DoesMyNumberLookBigInThis.py) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/5a2c084ab6cfd7f0840000e4) | [Prime Ant](Python/6_kyu/PrimeAnt.py) |
+
+### TypeScript
+
+| Level       | Link                                                               | Nome |
+| :---        | :----:                                                             | :--- |
+| 5 kyu       | [CodeWars](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4) | [Vector Class](TypeScript/5_kyu/VectorClass.ts) |

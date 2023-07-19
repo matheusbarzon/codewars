@@ -1,5 +1,7 @@
 ## Code Wars Solutions
 
+[![Perfil no Code Wars](https://www.codewars.com/users/barzs/badges/large)](https://www.codewars.com/users/barzs)
+
 ### Go
 
 | Level       | Link                                                               | Nome |
@@ -39,3 +41,4 @@
 | Level       | Link                                                               | Nome |
 | :---        | :----:                                                             | :--- |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4) | [Vector Class](TypeScript/5_kyu/VectorClass.ts) |
+| 6 kyu       | [CodeWars](https://www.codewars.com/kata/591445324670baed3200008d) | [Learning TypeScript. Classes & Interfaces. Singletons](TypeScript/6_kyu/LearningTSClassesInterfacesSingleton.ts) |

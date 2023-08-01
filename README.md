@@ -17,6 +17,7 @@
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parse Int Reloaded](JavaScript/4_kyu/ParseIntReloaded.js) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | [Number Of Trailling Zeros Of N](JavaScript/5_kyu/NumberOfTrailingZerosOfN.js) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/513e08acc600c94f01000001) | [RGB To Hex Conversion](JavaScript/5_kyu/RGBToHexConversion.js) |
+| 5 kyu       | [CodeWars](https://www.codewars.com/kata/523c7fbb0d47a759580000e2) | [Simple Time Bomb](JavaScript/5_kyu/SimpleTimeBomb.js) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/525f50e3b73515a6db000b83) | [Create Phone Number](JavaScript/6_kyu/CreatePhoneNumber.js) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/514b92a657cdc65150000006) | [Multiple Of 3 or 5](JavaScript/6_kyu/MutipleOf3or5.js) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) | [Persistent Bugger](JavaScript/6_kyu/PersistentBugger.js) |

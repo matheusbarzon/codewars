@@ -15,6 +15,7 @@
 | 3 kyu       | [CodeWars](https://www.codewars.com/kata/5a54e01d80eba8014c000344) | Prime Ant Crazy Version |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e) | [Next Bigger Number With The Same Digits](JavaScript/4_kyu/NextBiggerNumberWithTheSameDigits.js) |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parse Int Reloaded](JavaScript/4_kyu/ParseIntReloaded.js) |
+| 4 kyu       | [CodeWars](https://www.codewars.com/kata/574d0b01b4b769b207000ca3) | [Priori Incantatem](JavaScript/4_kyu/PrioriIncantatem.js) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | [Number Of Trailling Zeros Of N](JavaScript/5_kyu/NumberOfTrailingZerosOfN.js) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/513e08acc600c94f01000001) | [RGB To Hex Conversion](JavaScript/5_kyu/RGBToHexConversion.js) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/523c7fbb0d47a759580000e2) | [Simple Time Bomb](JavaScript/5_kyu/SimpleTimeBomb.js) |

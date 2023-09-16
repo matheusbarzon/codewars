@@ -13,6 +13,7 @@
 | Level       | Link                                                               | Nome |
 | :---        | :----:                                                             | :--- |
 | 3 kyu       | [CodeWars](https://www.codewars.com/kata/5a54e01d80eba8014c000344) | Prime Ant Crazy Version |
+| 4 kyu       | [CodeWars](https://www.codewars.com/kata/52608f5345d4a19bed000b31) | [Chinese Numeral Encoder](JavaScript/4_kyu/ChineseNumeralEncoder.js) |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e) | [Next Bigger Number With The Same Digits](JavaScript/4_kyu/NextBiggerNumberWithTheSameDigits.js) |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) | [Parse Int Reloaded](JavaScript/4_kyu/ParseIntReloaded.js) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | [Number Of Trailling Zeros Of N](JavaScript/5_kyu/NumberOfTrailingZerosOfN.js) |

@@ -41,6 +41,7 @@
 
 | Level       | Link                                                               | Nome |
 | :---        | :----:                                                             | :--- |
+| 4 kyu       | [CodeWars](https://www.codewars.com/kata/52a382ee44408cea2500074c) | [Matrix Determinat](TypeScript/4_kyu/MatrixDeterminat.ts) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4) | [Vector Class](TypeScript/5_kyu/VectorClass.ts) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/5916c87540ef95d8e1000007) | [Learning TypeScript. Advanced Types. Intersection Types](TypeScript/6_kyu/LearningTSClassesInterfacesSingleton.ts) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/591445324670baed3200008d) | [Learning TypeScript. Classes & Interfaces. Singletons](TypeScript/6_kyu/LearningTSAdvancedIntersectionTypes.ts) |

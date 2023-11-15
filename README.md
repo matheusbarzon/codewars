@@ -8,6 +8,7 @@
 | :---        | :----:                                                             | :--- |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e) | [Next Bigger Number With The Same Digits](Go/4_kyu/NextBiggerNumberWithTheSameDigits.go) |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [Twice Linear](Go/4_kyo/TwiceLinear.go) |
+| 5 kyu       | [CodeWars](https://www.codewars.com/kata/550f22f4d758534c1100025a) | [Directions Reduction](Go/5_kyu/DirectionsReduction.go) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/52685f7382004e774f0001f7) | [Human Readable Time](Go/5_kyu/HumanReadableTime.go) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [Moving Zeros To The End](Go/5_kyu/MovingZerosToTheEnd.go) |
 

@@ -3,9 +3,9 @@
 [![Perfil no Code Wars](https://www.codewars.com/users/barzs/badges/large)](https://www.codewars.com/users/barzs)
 
 ### Go
-
 | Level       | Link                                                               | Nome |
 | :---        | :----:                                                             | :--- |
+| 4 kyu       | [CodeWars](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | [Human readable duration format](Go/4_kyu/HumanReadableDurationFormat.go) |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/55983863da40caa2c900004e) | [Next Bigger Number With The Same Digits](Go/4_kyu/NextBiggerNumberWithTheSameDigits.go) |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/5672682212c8ecf83e000050) | [Twice Linear](Go/4_kyo/TwiceLinear.go) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/550f22f4d758534c1100025a) | [Directions Reduction](Go/5_kyu/DirectionsReduction.go) |

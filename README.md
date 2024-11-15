@@ -16,6 +16,8 @@
 
 ### Java
 
+| Level       | Link                                                               | Nome |
+| :---        | :----:                                                             | :--- |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/55c6126177c9441a570000cc) | [Are they the "same"](Java/5_kyu/WeightForWeight.java) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/550498447451fbbd7600041c) | [Are they the "same"](Java/6_kyu/AreTheyTheSame.java) |
 | 7 kyu       | [CodeWars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Descending Order](Java/7_kyu/DescendingOrder.java) |

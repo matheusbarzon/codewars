@@ -3,6 +3,7 @@
 [![Perfil no Code Wars](https://www.codewars.com/users/barzs/badges/large)](https://www.codewars.com/users/barzs)
 
 ### Go
+
 | Level       | Link                                                               | Nome |
 | :---        | :----:                                                             | :--- |
 | 4 kyu       | [CodeWars](https://www.codewars.com/kata/52742f58faf5485cae000b9a) | [Human readable duration format](Go/4_kyu/HumanReadableDurationFormat.go) |
@@ -15,6 +16,7 @@
 
 ### Java
 
+| 6 kyu       | [CodeWars](https://www.codewars.com/kata/550498447451fbbd7600041c) | [Are they the "same"](Java/6_kyu/AreTheyTheSame.java) |
 | 7 kyu       | [CodeWars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Descending Order](Java/7_kyu/DescendingOrder.java) |
 
 ### JavaScript

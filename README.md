@@ -13,7 +13,9 @@
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) | [Maximum subarray sum](Go/5_kyu/MaximumSubarraySum.go) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/52597aa56021e91c93000cb0) | [Moving Zeros To The End](Go/5_kyu/MovingZerosToTheEnd.go) |
 
+### Java
 
+| 7 kyu       | [CodeWars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Descending Order](Java/7_kyu/DescendingOrder.java) |
 
 ### JavaScript
 

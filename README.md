@@ -18,6 +18,7 @@
 
 | Level       | Link                                                               | Nome |
 | :---        | :----:                                                             | :--- |
+| 4 kyu       | [CodeWars](https://www.codewars.com/kata/51c8e37cee245da6b40000bd) | [Strip Comments](Java/4_kyu/StripComments.java) |
 | 5 kyu       | [CodeWars](https://www.codewars.com/kata/55c6126177c9441a570000cc) | [Weight for weight](Java/5_kyu/WeightForWeight.java) |
 | 6 kyu       | [CodeWars](https://www.codewars.com/kata/550498447451fbbd7600041c) | [Are they the "same"](Java/6_kyu/AreTheyTheSame.java) |
 | 7 kyu       | [CodeWars](https://www.codewars.com/kata/5467e4d82edf8bbf40000155) | [Descending Order](Java/7_kyu/DescendingOrder.java) |
